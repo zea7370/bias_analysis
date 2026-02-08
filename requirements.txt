@@ -1,7 +1,7 @@
+streamlit
+altair==4.2.2
 pandas
 numpy
 scikit-learn
-streamlit
 fairlearn
 matplotlib
-seaborn
